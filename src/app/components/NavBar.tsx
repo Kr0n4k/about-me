@@ -47,6 +47,7 @@ const NavBar = () => {
   const navItems = [
     { id: 'about-me', label: 'Обо мне' },
     { id: 'my-projects', label: 'Мои проекты' },
+    {id: 'blog', label: 'Блог'},
     { id: 'contact', label: 'Связь со мной' },
   ]
 
